@@ -28,9 +28,11 @@ In windows 7 give the command arp -a
 ![image](https://github.com/user-attachments/assets/0502c626-1500-462e-b052-754a539e8ac1)
 
 
-From kali linux issue the command :
+From parrot security issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/54c5e341-cec9-47c0-b784-b9c2e66a2934)
 
 
  dsniff:
@@ -43,10 +45,11 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/4990e795-4a95-41f5-a1f8-a4d872ab80c3)
 
 
 
-In Kali issue the following commands:
+In Parrot issue the following commands:
 sudo dsnifff
 ## OUTPUT:
 
