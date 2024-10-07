@@ -59,7 +59,7 @@ sudo dsniff
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
 
-![image](https://github.com/user-attachments/assets/b6a3b5a3-25f7-4b82-b3f5-bc1f49d6d15b)
+![Screenshot 2024-10-07 143936](https://github.com/user-attachments/assets/159d328e-188d-480f-9c6c-a8593e8dfb7f)
 
 
 ## RESULT:
