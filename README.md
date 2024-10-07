@@ -50,13 +50,17 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 
 
 In Parrot issue the following commands:
-sudo dsnifff
+sudo dsniff
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/e536adc8-e777-4638-a4ad-aed6bd249e4c)
 
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
 
+![image](https://github.com/user-attachments/assets/b6a3b5a3-25f7-4b82-b3f5-bc1f49d6d15b)
+
 
 ## RESULT:
-The kali linux tools for ARP Attack and Network Sniffing were identified successfully
+The parrot security tools for ARP Attack and Network Sniffing were identified successfully
